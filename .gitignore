@@ -3,3 +3,22 @@
 ################################################################################
 
 /.vs
+/ApplicationServices/DM.ApplicationServices/bin/Debug/net5.0
+/ApplicationServices/DM.ApplicationServices/obj
+/Database/DA.DB/bin/Debug
+/Database/DA.DB/obj/Debug
+/Database/DA.DB/Import Schema Logs
+/Database/DA.DB/DA.DB.jfm
+/Database/DA.DB/DA.DB.sqlproj.user
+/Domain/DA.Domain/bin/Debug/net5.0
+/Domain/DA.Domain/obj
+/Infrastructure/DA.Infrastructure.SQL/DA.Infrastructure.SQL/bin/Debug/net5.0
+/Infrastructure/DA.Infrastructure.SQL/DA.Infrastructure.SQL/obj
+/Infrastructure/PK.BuildingBlocks.Infrastructure/PK.BuildingBlocks.Infrastructure
+/Infrastructure/PK.BuildingBlocks.Repository/PK.BuildingBlocks.Repository
+/Proxy/DA.Proxy/bin/Debug/net5.0
+/Proxy/DA.Proxy/obj
+/ServicesInterfaces/DA.ServicesInterfaces/bin/Debug/net5.0
+/ServicesInterfaces/DA.ServicesInterfaces/obj
+/UnitTest/DA.Test/bin/Debug/net5.0
+/UnitTest/DA.Test/obj
